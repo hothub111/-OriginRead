@@ -17,17 +17,6 @@
 - OkHttp
 - Jsoup
 
-## 环境要求
-
-- Android Studio
-- JDK 17
-- Android SDK 35
-- 最低 Android 8.0（API 26）
-
-## 运行
-
-1. 用 Android Studio 打开本目录。
-2. 等待 Gradle 同步完成。
-3. 选择模拟器或真机运行 `app`。
-
+## 下载&安装 `app`。
+在Realase页面下载安装包。
 本项目没有内置账号系统，所有数据均保存在本地。
